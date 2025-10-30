@@ -6,16 +6,7 @@
   </div>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F3ZG9paXIwNXR3c3JvcWMwOWszY2c3ZXRzYmcwbmNoaHpvbm9mbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KcPAarmcMy34NQJG3H/giphy.gif" width="25" style="vertical-align:middle;"> <b style="font-size:1.5em; margin:0; padding:0; line-height:1; display:inline;">*ABOUT ME*</b>
-
-Hello! I'm HIJACKED, a passionate **Cybersecurity Professional** with a focus on **Penetration Testing** and **Red Team Operations**. Based in **Morocco**, I specialize in uncovering vulnerabilities, emulating real-world threats, and delivering robust security solutions. 🚀
-
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F3ZG9paXIwNXR3c3JvcWMwOWszY2c3ZXRzYmcwbmNoaHpvbm9mbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KcPAarmcMy34NQJG3H/giphy.gif" width ="25"><b> *SKILLS*</b>
-
-- **Penetration Testing**: CTF Player in (**TryHackMe** & **HackTheBox**), Crafting tailored attack simulations to identify and mitigate vulnerabilities  
-- **Red Teaming**: Emulating real-world adversaries to strengthen security defenses  
-- **Cloud Security**: Expertise in securing cloud environments (Azure, OpenStack)  
-- **Programming**: Python 🐍, Bash, PowerShell, C  
-- **Web Application Security**: Deep knowledge of OWASP standards, vulnerability assessment  
+<b>*I'm HIJACKED, a passionate **Cybersecurity Professional** with a focus on **Penetration Testing** and **Red Team Operations**. Based in **Morocco**, I specialize in uncovering vulnerabilities, emulating real-world threats, and delivering robust security solutions. 🚀*</b>
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F3ZG9paXIwNXR3c3JvcWMwOWszY2c3ZXRzYmcwbmNoaHpvbm9mbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KcPAarmcMy34NQJG3H/giphy.gif" width ="25"><b> *CERTIFICATIONS*</b>
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTZ6ZjNnbm14YWpjdTZuZHhoNGEyNml2NHUxN3N0emVzc2d2Y3BhOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0fXoIiJw535moY5eu5/giphy.gif" width ="25"><b> *Jr Penetration Testing* <br>
@@ -56,6 +47,15 @@ Hello! I'm HIJACKED, a passionate **Cybersecurity Professional** with a focus on
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
   </div>
 </div>
+
+
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F3ZG9paXIwNXR3c3JvcWMwOWszY2c3ZXRzYmcwbmNoaHpvbm9mbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KcPAarmcMy34NQJG3H/giphy.gif" width ="25"><b> *SKILLS*</b>
+
+- ***Penetration Testing**: CTF Player in (**TryHackMe** & **HackTheBox**), Crafting tailored attack simulations to identify and mitigate vulnerabilities*
+- ***Red Teaming**: Emulating real-world adversaries to strengthen security defenses* 
+- ***Cloud Security**: Expertise in securing cloud environments (Azure, OpenStack)*  
+- ***Programming**: Python 🐍, Bash, PowerShell, C++*  
+- ***Web Application Security**: Deep knowledge of OWASP standards, vulnerability assessment* 
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2F3ZG9paXIwNXR3c3JvcWMwOWszY2c3ZXRzYmcwbmNoaHpvbm9mbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KcPAarmcMy34NQJG3H/giphy.gif" width ="25"><b> *CAPTURE THE FLAG*</b>
 <div style="display: flex; justify-content: space-between; align-items: center; margin:0; padding:0;">
