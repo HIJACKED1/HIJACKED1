@@ -1,10 +1,11 @@
-<div align="center">
-  <img align="center" width="600px" margin="0px" src="https://github.com/HIJACKED1/HIJACKED1/blob/main/logo.png">
+<div style="text-align:center; margin:0; padding:0;">
+  <img src="https://github.com/HIJACKED1/HIJACKED1/blob/main/logo1.png" 
+       style="display:block; margin:0 auto; width:900px; padding:0;" />
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Me </b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **About Me**
 
-Hello! I'm HIJACKED, a passionate **Cybersecurity Professional** with a focus on **Penetration Testing** and **Red Team Operations**. Based in **Morocco**, I specialize in uncovering vulnerabilities, emulating real-world threats, and delivering robust security solutions. 🚀  
+Hello! I'm **HIJACKED**, a passionate **Cybersecurity Professional** with a focus on **Penetration Testing** and **Red Team Operations**. Based in **Morocco**, I specialize in uncovering vulnerabilities, emulating real-world threats, and delivering robust security solutions. 🚀
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills </b>
 
@@ -28,6 +29,7 @@ Hello! I'm HIJACKED, a passionate **Cybersecurity Professional** with a focus on
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Gift For You !!! </b>
 
 <img src="qrcode.png" width ="200">
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> CTF Challenges Profile </b>
  <div style="display: flex;">
